@@ -1,0 +1,9 @@
+{
+  "name": "netlify-github-saver",
+  "version": "1.0.0",
+  "description": "Función para guardar datos en GitHub.",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.6.0" 
+  }
+}
